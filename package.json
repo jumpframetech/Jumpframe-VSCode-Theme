@@ -1,0 +1,33 @@
+{
+  "name": "jumoframe-theme",
+  "displayName": "JumoFrame Theme",
+  "description": "JumpFrame theme",
+  "version": "0.0.1",
+  "publisher": "JumpFrame",
+  "repository":{
+    "type":"git",
+    "url": "https://github.com/jumpframetech/Jumpframe-VSCode-Theme"
+  },
+
+  "keywords":[
+    "Jumpframe",
+    "DarkTheme",
+    "Top Themes",
+    "JumpframeTechnology"
+  ],
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JumpFrame Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JumpFrame Theme-color-theme.json"
+      }
+    ]
+  }
+}
