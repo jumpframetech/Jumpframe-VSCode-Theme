@@ -1,0 +1,21 @@
+{
+  "name": "jumpframe-theme",
+  "displayName": "JumpFrame Theme",
+  "description": "A JumpFrame Custom Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JumpFrame Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JumpFrame Theme-color-theme.json"
+      }
+    ]
+  }
+}
