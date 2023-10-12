@@ -2,14 +2,13 @@
   "name": "jumoframe-theme",
   "displayName": "JumoFrame Theme",
   "description": "JumpFrame theme",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "publisher": "JumpFrame",
-  "repository":{
-    "type":"git",
+  "repository": {
+    "type": "git",
     "url": "https://github.com/jumpframetech/Jumpframe-VSCode-Theme"
   },
-
-  "keywords":[
+  "keywords": [
     "Jumpframe",
     "DarkTheme",
     "Top Themes",
@@ -28,6 +27,10 @@
         "uiTheme": "vs-dark",
         "path": "./themes/JumpFrame Theme-color-theme.json"
       }
-    ]
+    ],
+    "icon": {
+      "light": "https://cdn.discordapp.com/attachments/1146798890222362635/1162026505111613530/jumpframe_Profile.png?ex=653a7084&is=6527fb84&hm=60cbfaa38329b9705bd502ea0ccf7b00d6d8782c5c7f29e2905819a5f7f5963e&",
+      "dark": "https://cdn.discordapp.com/attachments/1146798890222362635/1162026505111613530/jumpframe_Profile.png?ex=653a7084&is=6527fb84&hm=60cbfaa38329b9705bd502ea0ccf7b00d6d8782c5c7f29e2905819a5f7f5963e&"
+    }
   }
 }
