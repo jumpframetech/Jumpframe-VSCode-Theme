@@ -1,14 +1,20 @@
 {
-  "name": "jumoframe-theme",
-  "displayName": "JumoFrame Theme",
+  "name": "jumpframe-theme",
+  "displayName": "JumpFrame Theme",
   "description": "JumpFrame theme",
-  "icon": "./images/jumpframe Profile.png",
-  "version": "0.7.0",
+  "version": "0.1.0",
   "publisher": "JumpFrame",
   "repository": {
     "type": "git",
     "url": "https://github.com/jumpframetech/Jumpframe-VSCode-Theme"
   },
+
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#171515",
+    "theme": "dark"
+  },
+
   "keywords": [
     "Jumpframe",
     "DarkTheme",
