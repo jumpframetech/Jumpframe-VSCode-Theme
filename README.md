@@ -5,7 +5,7 @@
 
 ## Description
 
-My Custom VS Code Theme is a carefully crafted theme for Visual Studio Code that provides a unique and visually pleasing coding experience. It's designed to be easy on the eyes, reduce eye strain during long coding sessions, and make your code stand out.
+JumpFrame's VS Code Theme is a carefully crafted theme for Visual Studio Code that provides a unique and visually pleasing coding experience. It's designed to be easy on the eyes, reduce eye strain during long coding sessions, and make your code stand out.
 
 ## Features
 
