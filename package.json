@@ -1,8 +1,8 @@
 {
   "name": "jumpframe-theme",
   "displayName": "JumpFrame Theme",
-  "description": "JumpFrame theme",
-  "version": "0.2.0",
+  "description": "JumpFrame theme For VS Code ",
+  "version": "0.8.0",
   "publisher": "JumpFrame",
   "repository": {
     "type": "git",
@@ -17,7 +17,9 @@
     "Jumpframe",
     "DarkTheme",
     "Top Themes",
-    "JumpframeTechnology"
+    "JumpframeTechnology",
+    "jump",
+    "theme"
   ],
   "engines": {
     "vscode": "^1.83.0"
