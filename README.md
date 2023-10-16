@@ -26,7 +26,7 @@ To use this theme, follow these steps:
 
 1. Launch Visual Studio Code.
 2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
-3. Search for "My Custom VS Code Theme."
+3. Search for "JumpFrame VS Code Theme."
 4. Click "Install" to install the theme.
 5. Go to "File" -> "Preferences" -> "Color Theme" and select "My Custom Theme" from the list.
 
